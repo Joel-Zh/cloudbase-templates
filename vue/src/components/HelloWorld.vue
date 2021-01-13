@@ -4,7 +4,7 @@
     <h2>
       通过
       <a href="https://cloud.tencent.com/document/product/876/46177" target="_blank">未登录 + 安全规则</a>
-      的方式调用云开发
+      的方式调用云开发【测试】
     </h2>
     <p>
       点击查看
